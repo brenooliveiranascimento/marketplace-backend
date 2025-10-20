@@ -17,7 +17,7 @@ Siga os passos abaixo para configurar e rodar o projeto em seu ambiente local.
 
 ```sh
 git clone https://github.com/rocketseat-education/marketplace-backend.git
-cd dtmoney-backend
+cd marketplace-backend
 ```
 
 ### 2️⃣ Instalar as dependências
