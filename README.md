@@ -1,6 +1,6 @@
 # Dtmoney - Backend - RocketSeat
 
-Este é o backend do projeto **dtmoney**.
+Este é o backend do projeto **marketplace**.
 
 ## 🚀 Tecnologias
 
