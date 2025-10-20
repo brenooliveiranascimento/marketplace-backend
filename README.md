@@ -1,4 +1,4 @@
-# Dtmoney - Backend - RocketSeat
+# Marketplace - Backend - RocketSeat
 
 Este é o backend do projeto **marketplace**.
 
